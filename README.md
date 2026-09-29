@@ -4,16 +4,7 @@
 
 ---
 
-## Author & Contact
 
-| | |
-|---|---|
-| **Author** | **KuchikiRenji** |
-| **Email** | [KuchikiRenji@outlook.com](mailto:KuchikiRenji@outlook.com) |
-| **GitHub** | [github.com/KuchikiRenji](https://github.com/KuchikiRenji) |
-| **Discord** | `kuchiki_renji` |
-
-For questions, collaboration, or support, reach out via the links above or open an issue on GitHub.
 
 ---
 
@@ -253,7 +244,7 @@ This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for d
 ---
 
 **Healthcare AI Voice Agent** – built for better healthcare accessibility.  
-**Author:** [KuchikiRenji](https://github.com/KuchikiRenji) · [Contact](mailto:KuchikiRenji@outlook.com) · Discord: `kuchiki_renji`
+
 
 ---
 
